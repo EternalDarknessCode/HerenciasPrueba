@@ -12,6 +12,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Prueba github");
+		System.out.println("Dracula esta vivo");
 		//voy a crear un vehiculo
 		Vehiculo vehiculo;
 		String matricula; 
